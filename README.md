@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kaiwenw ([kaiwenw.github.io](https://kaiwenw.github.io/))
-- 👀 I’m interested in machine learning, particularly reinforcement learning and causal inference.
+- 👋 Hi, I’m Kaiwen, a PhD student at Cornell Tech ([kaiwenw.github.io](https://kaiwenw.github.io/))
+- 👀 I’m interested in machine learning, reinforcement learning and causal inference.
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on research projects
 - 📫 How to reach me ... -->
